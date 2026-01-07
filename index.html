@@ -541,11 +541,48 @@ function renderReceber_A(A){
   document.getElementById('dbReceber').textContent='Data-base: ' + toBRDate(tot && tot[6]);
 }
 function renderPrazo_A(A){
-  const total = A.find('(=) Prazo Médio '), ccb=A.find('CCB'), dup=A.find('Duplicatas'), ris=A.find('Risco Sacado');
-  const linhas=[ {label:'(=) Prazo Médio', valor: total? Number(total[7])||0 : 0}, {label:'Duplicatas', valor: dup? Number(dup[7])||0 : 0}, {label:'CCB', valor: ccb? Number(ccb[7])||0 : 0}, {label:'Risco Sacado', valor: ris? Number(ris[7])||0 : 0} ];
-  const tb=document.getElementById("tbodyPrazo"); tb.innerHTML='';
-  linhas.forEach(r=>{ const tr=document.createElement('tr'); tr.innerHTML=`<td>${r.label}</td><td class="center">${(Number(r.valor)||0).toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})}</td>`; tb.appendChild(tr); });
-  document.getElementById('dbPrazo').textContent='Data-base: ' + toBRDate(total && total[6]);
+  // Como o JSON é estático, usamos a posição: o bloco "Prazo Médio" vem seguido por CCB, Duplicatas e Risco Sacado.
+  const rows = A.rows || [];
+
+  // Encontra a linha do TOTAL do prazo médio (garantindo a unidade "Dias Corridos")
+  const total = rows.find(r =>
+    ((r[4] || '').trim().toLowerCase() === '(=) prazo médio') &&
+    ((r[5] || '').trim().toLowerCase() === 'dias corridos')
+  );
+
+  const idx = total ? rows.indexOf(total) : -1;
+
+  // Captura as três linhas imediatamente abaixo (ordem esperada no JSON: CCB, Duplicatas, Risco Sacado)
+  let ccb = null, dup = null, ris = null;
+  if(idx >= 0){
+    const r1 = rows[idx + 1];
+    const r2 = rows[idx + 2];
+    const r3 = rows[idx + 3];
+
+    if(r1 && ((r1[4] || '').trim().toLowerCase() === 'ccb')) ccb = r1;
+    if(r2 && ((r2[4] || '').trim().toLowerCase() === 'duplicatas')) dup = r2;
+    if(r3 && ((r3[4] || '').trim().toLowerCase() === 'risco sacado')) ris = r3;
+  }
+
+  // Mantém exatamente a mesma ordem e formatação que você já usa na tabela
+  const linhas = [
+    { label: '(=) Prazo Médio', valor: total ? Number(total[7]) || 0 : 0 },
+    { label: 'Duplicatas',      valor: dup   ? Number(dup[7])   || 0 : 0 },
+    { label: 'CCB',             valor: ccb   ? Number(ccb[7])   || 0 : 0 },
+    { label: 'Risco Sacado',    valor: ris   ? Number(ris[7])   || 0 : 0 }
+  ];
+
+  const tb = document.getElementById("tbodyPrazo");
+  tb.innerHTML = '';
+
+  linhas.forEach(r=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${r.label}</td><td class="center">${(Number(r.valor)||0).toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})}</td>`;
+    tb.appendChild(tr);
+  });
+
+  // Mantém sua lógica original de data-base
+  document.getElementById('dbPrazo').textContent = 'Data-base: ' + toBRDate(total && total[6]);
 }
 
 /* =========================
