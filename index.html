@@ -1,3 +1,4 @@
+```html
 <!doctype html>
 <html lang="pt-BR">
 <head>
@@ -198,6 +199,8 @@
           <div class="dbase" id="dbReceber">Data-base: –</div>
           <div class="obs">Considera valor presente atualizado dos DCs</div>
         </div>
+
+        <!-- Prazo Médio + Lanchas (mesmo card, abaixo) -->
         <div class="card col-4">
           <div class="band">Prazo Médio por Operação</div>
           <table class="table">
@@ -205,7 +208,16 @@
             <tbody id="tbodyPrazo"></tbody>
           </table>
           <div class="dbase" id="dbPrazo">Data-base: –</div>
+
+          <div style="height:12px"></div>
+
+          <div class="band">Quantidade de Lanchas Financiadas</div>
+          <table class="table">
+            <thead><tr><th>Lanchas Financiadas</th><th class="center">Quantidade</th></tr></thead>
+            <tbody id="tbodyLanchas"></tbody>
+          </table>
         </div>
+
       </div>
     </div>
   </section>
@@ -363,19 +375,32 @@ const C_TOTAL='#004065', C_CCB='#286DAC', C_DUP='#666666', C_RISCO='#118DFF', C_
 const brlFull = v => (Number(v)||0).toLocaleString('pt-BR',{style:'currency',currency:'BRL',minimumFractionDigits:2,maximumFractionDigits:2});
 const pct1 = v => (Number(v)||0).toLocaleString('pt-BR',{style:'percent',minimumFractionDigits:1,maximumFractionDigits:1});
 function toBRDate(str){ if(!str) return '–'; const d=new Date(str); return isNaN(d)? String(str) : d.toLocaleDateString('pt-BR'); }
+const num1 = v => (Number(v)||0).toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1});
 
 /* =========================
    PARSE DO NOVO JSON (1..11)
    ========================= */
 function parseNew(rows){
-  const norm = rows.map(r=>{ const out={}; for(let i=1;i<=11;i++) out[i]= r[String(i)] ?? null; return out; });
-  const sec = { A:[], a:[], B:[], b:[], C:[], c:[], D:[], d:[] };
-  norm.forEach(r=>{ const k=r[2]; if(k && sec.hasOwnProperty(k)) sec[k].push(r); });
+  const norm = rows.map(r=>{
+    const out={};
+    for(let i=1;i<=11;i++) out[i]= r[String(i)] ?? null;
+    return out;
+  });
+
+  // Inclui a nova seção E/e (Quantidade de Lanchas)
+  const sec = { A:[], a:[], B:[], b:[], C:[], c:[], D:[], d:[], E:[], e:[] };
+
+  norm.forEach(r=>{
+    const k=r[2];
+    if(k && sec.hasOwnProperty(k)) sec[k].push(r);
+  });
+
   return {
     A:{ rows:sec['a'], find:name=>sec['a'].find(r => (r[4]||'').trim().toLowerCase()===name.trim().toLowerCase()) },
     B:{ rows:sec['b'], find:name=>sec['b'].find(r => (r[4]||'').trim().toLowerCase()===name.trim().toLowerCase()) },
     C:{ rows:sec['c'] },
-    D:{ rows:sec['d'] }
+    D:{ rows:sec['d'] },
+    E:{ rows:sec['e'], find:name=>sec['e'].find(r => (r[4]||'').trim().toLowerCase()===name.trim().toLowerCase()) }
   };
 }
 
@@ -416,12 +441,12 @@ function commonBarOptions(maxVal){
 }
 
 /* =========================
-   PÁGINA 1 (A + referências de B)
+   PÁGINA 1 (A + referências de B + E)
    ========================= */
 let chartPrincipal, chartShare, chartReceber, chartReceita;
 
 function renderPage1(sections){
-  const {A,B} = sections;
+  const {A,B,E} = sections;
 
   // KPIs PL
   const pl = A.find('Patrimônio Líquido (PL)');
@@ -449,6 +474,7 @@ function renderPage1(sections){
   renderShare_A(A);
   renderReceber_A(A);
   renderPrazo_A(A);
+  renderLanchas_E(E);
 }
 
 function renderTabelaPL_A(A){
@@ -519,6 +545,7 @@ function renderShare_A(A){
   const total=A.find('(=) Principal Alocado');
   document.getElementById('dbShare').textContent = 'Data-base: ' + toBRDate(total && total[6]);
 }
+
 function renderReceber_A(A){
   const tot=A.find('(=) Valores a Receber');
   const idx = A.rows.indexOf(tot);
@@ -540,11 +567,10 @@ function renderReceber_A(A){
   });
   document.getElementById('dbReceber').textContent='Data-base: ' + toBRDate(tot && tot[6]);
 }
+
 function renderPrazo_A(A){
-  // Como o JSON é estático, usamos a posição: o bloco "Prazo Médio" vem seguido por CCB, Duplicatas e Risco Sacado.
   const rows = A.rows || [];
 
-  // Encontra a linha do TOTAL do prazo médio (garantindo a unidade "Dias Corridos")
   const total = rows.find(r =>
     ((r[4] || '').trim().toLowerCase() === '(=) prazo médio') &&
     ((r[5] || '').trim().toLowerCase() === 'dias corridos')
@@ -552,7 +578,6 @@ function renderPrazo_A(A){
 
   const idx = total ? rows.indexOf(total) : -1;
 
-  // Captura as três linhas imediatamente abaixo (ordem esperada no JSON: CCB, Duplicatas, Risco Sacado)
   let ccb = null, dup = null, ris = null;
   if(idx >= 0){
     const r1 = rows[idx + 1];
@@ -564,7 +589,6 @@ function renderPrazo_A(A){
     if(r3 && ((r3[4] || '').trim().toLowerCase() === 'risco sacado')) ris = r3;
   }
 
-  // Mantém exatamente a mesma ordem e formatação que você já usa na tabela
   const linhas = [
     { label: '(=) Prazo Médio', valor: total ? Number(total[7]) || 0 : 0 },
     { label: 'Duplicatas',      valor: dup   ? Number(dup[7])   || 0 : 0 },
@@ -577,12 +601,57 @@ function renderPrazo_A(A){
 
   linhas.forEach(r=>{
     const tr = document.createElement('tr');
-    tr.innerHTML = `<td>${r.label}</td><td class="center">${(Number(r.valor)||0).toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})}</td>`;
+    tr.innerHTML = `<td>${r.label}</td><td class="center">${num1(r.valor)}</td>`;
     tb.appendChild(tr);
   });
 
-  // Mantém sua lógica original de data-base
   document.getElementById('dbPrazo').textContent = 'Data-base: ' + toBRDate(total && total[6]);
+}
+
+/* =========================
+   NOVO BLOCO: LANCHAS (E)
+   ========================= */
+function renderLanchas_E(E){
+  const tb = document.getElementById('tbodyLanchas');
+  if(!tb) return;
+  tb.innerHTML = '';
+
+  const rows = (E && E.rows) ? E.rows : [];
+  if(!rows.length){
+    // fallback: mostra “–” se não vier a seção E/e
+    const tr=document.createElement('tr');
+    tr.innerHTML = `<td>–</td><td class="center">–</td>`;
+    tb.appendChild(tr);
+    return;
+  }
+
+  // Estratégia: achar "Total Histórico Geral" e ler as 5 linhas seguintes na ordem esperada
+  const idxHist = rows.findIndex(r => ((r[4]||'').trim().toLowerCase() === 'total histórico geral'));
+  let seq = [];
+
+  if(idxHist >= 0){
+    // Esperado: [Hist Geral, CCB, Duplicatas, Total Atual, CCB, Duplicatas]
+    seq = [rows[idxHist], rows[idxHist+1], rows[idxHist+2], rows[idxHist+3], rows[idxHist+4], rows[idxHist+5]].filter(Boolean);
+  }else{
+    // fallback: tenta montar por busca (menos preferível, mas evita “tabela vazia”)
+    const pickFirst = (name) => rows.find(r => ((r[4]||'').trim().toLowerCase() === name));
+    const histG = pickFirst('total histórico geral');
+    const totA  = pickFirst('total atual');
+    // para CCB/Duplicatas duplicados, pega 1ª ocorrência para histórico e 2ª para atual (se houver)
+    const allCCB = rows.filter(r => ((r[4]||'').trim().toLowerCase() === 'ccb'));
+    const allDUP = rows.filter(r => ((r[4]||'').trim().toLowerCase() === 'duplicatas'));
+    seq = [histG, allCCB[0], allDUP[0], totA, allCCB[1] || allCCB[0], allDUP[1] || allDUP[0]].filter(Boolean);
+  }
+
+  // Monta exatamente como você pediu (com separadores)
+  seq.forEach(r=>{
+    const label = (r[4]||'').trim();
+    const val = (r[7]!=null) ? Number(r[7])||0 : 0;
+
+    const tr=document.createElement('tr');
+    tr.innerHTML = `<td>${label}</td><td class="center">${num1(val)}</td>`;
+    tb.appendChild(tr);
+  });
 }
 
 /* =========================
@@ -735,3 +804,4 @@ window.addEventListener('DOMContentLoaded', prepLoginUI);
 </script>
 </body>
 </html>
+```
