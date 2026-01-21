@@ -1,1159 +1,768 @@
-[
-  {
-    "1":null,
-    "2":null,
-    "3":null,
-    "4":"Overview FIDC NX Boats",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"A",
-    "3":null,
-    "4":"Resumo",
-    "5":"Unidade",
-    "6":"Data Base",
-    "7":"Valor",
-    "8":"Observação",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Overview da Carteira",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(=) Principal Alocado",
-    "5":"R$ ",
-    "6":"2026-01-20T00:00:00.000",
-    "7":23748388.1808656119,
-    "8":"Considera VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"CCB",
-    "5":"R$",
-    "6":null,
-    "7":7904937.2786166919,
-    "8":"Considera VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Duplicatas",
-    "5":"R$",
-    "6":null,
-    "7":14118540.31268101,
-    "8":"Considera VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"com alienação",
-    "5":"R$",
-    "6":null,
-    "7":8274287.4573255265,
-    "8":"Considera VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Sem Alienação",
-    "5":"R$",
-    "6":null,
-    "7":5844252.8553554881,
-    "8":"Considera VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Risco Sacado",
-    "5":"R$",
-    "6":null,
-    "7":1724910.5895679104,
-    "8":"Considera VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(=) Valores a Receber",
-    "5":"R$",
-    "6":"2026-01-20T00:00:00.000",
-    "7":27138971.2999999896,
-    "8":"Considera PMT",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"CCB",
-    "5":"R$",
-    "6":null,
-    "7":9692320.079999987,
-    "8":"Considera PMT",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Duplicatas",
-    "5":"R$",
-    "6":null,
-    "7":15627630.5600000024,
-    "8":"Considera PMT",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Risco Sacado",
-    "5":"R$",
-    "6":null,
-    "7":1819020.6599999997,
-    "8":"Considera PMT",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(=) Share da Carteira",
-    "5":"%",
-    "6":"2026-01-20T00:00:00.000",
-    "7":1.0,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"CCB",
-    "5":"%",
-    "6":null,
-    "7":0.3328620544,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Duplicatas",
-    "5":"%",
-    "6":null,
-    "7":0.594505202,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Risco Sacado",
-    "5":"%",
-    "6":null,
-    "7":0.0726327436,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(=) Prazo Médio ",
-    "5":"Dias Corridos",
-    "6":"2026-01-20T00:00:00.000",
-    "7":186.42374055,
-    "8":"Considera apenas DCs adimplentes",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"CCB",
-    "5":"Dias Corridos",
-    "6":null,
-    "7":284.4862316256,
-    "8":"Considera apenas DCs adimplentes",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Duplicatas",
-    "5":"Dias Corridos",
-    "6":null,
-    "7":149.2953263077,
-    "8":"Considera apenas DCs adimplentes",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Risco Sacado",
-    "5":"Dias Corridos",
-    "6":null,
-    "7":40.9212260258,
-    "8":"Considera apenas DCs adimplentes",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Composição Patrimônio Líquido",
-    "5":"Unidade",
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Patrimônio Líquido (PL)",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":32454750.8799999952,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Cotas Sêniores",
-    "5":"R$",
-    "6":null,
-    "7":20303844.8099999987,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Cotas Mezanino",
-    "5":"R$",
-    "6":null,
-    "7":3738008.7000000002,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Cotas Subordinadas",
-    "5":"R$",
-    "6":null,
-    "7":8412897.3699999992,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"Disponibilidade para Alocação",
-    "5":"Unidade",
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(=) Caixa e Disponibilidades",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":8804067.9000000004,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(+) Kanastra",
-    "5":"R$",
-    "6":null,
-    "7":108603.99,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(+) Santander",
-    "5":"R$",
-    "6":null,
-    "7":289592.42,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":"(+) Liquidez Imediata",
-    "5":"R$",
-    "6":null,
-    "7":8405871.4900000002,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"a",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"B",
-    "3":null,
-    "4":"Índices de Monitoramento",
-    "5":"Unidade",
-    "6":"Data Base",
-    "7":"Valor Atual",
-    "8":"Índice Alvo",
-    "9":"Valor Disponível",
-    "10":"Descrição",
-    "11":"Enquadramento"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Subordinação",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Índice de Subordinação Cotas Mezanino",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.6923679042,
-    "8":0.25,
-    "9":29913580.7799999975,
-    "10":"Valor que pode chamar de mezanino, mantendo a Subordinada",
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Índice de Subordinação Cotas Sênior ",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.3743952962,
-    "8":0.35,
-    "9":14413029.6757142879,
-    "10":"Valor que pode chamar de Sênior, mantendo a mezanino e subordinada",
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Alocação",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Por Operação",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% de PL Alocado em Direitos Creditórios",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.7317384216,
-    "8":0.67,
-    "9":-2003705.0912656151,
-    "10":"Valor necessário para alocar em direitos creditórios ",
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% de PL Alocado em Risco Sacado",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0531481692,
-    "8":0.2,
-    "9":4766039.5864320882,
-    "10":"Valor que pode alocar em risco sacado",
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% de PL Mezanino + Junior Alocado em Duplicatas sem AF",
-    "5":null,
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.4809725976,
-    "8":1.0,
-    "9":6306653.2146445122,
-    "10":"Valor que pode alocar em duplicatas sem alienação",
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Por Sacado",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"TOP 1 Sacados",
-    "5":null,
-    "6":"2026-01-19T00:00:00.000",
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Valor Alocado em TOP 1 Sacados",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":2016284.0341777503,
-    "8":3000000.0,
-    "9":983715.9658222497,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% PL em TOP 1 Sacados",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0621260056,
-    "8":0.05,
-    "9":-393546.4901777506,
-    "10":null,
-    "11":"DESENQUADRADO"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"TOP 5 Sacados",
-    "5":null,
-    "6":"2026-01-19T00:00:00.000",
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Valor Alocado em TOP 5 Sacados",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":7082008.6396270636,
-    "8":12000000.0,
-    "9":4917991.3603729364,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% PL em TOP 5 Sacados",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.2182117702,
-    "8":0.2,
-    "9":-591058.4636270646,
-    "10":null,
-    "11":"DESENQUADRADO"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"TOP 10 Sacados",
-    "5":null,
-    "6":"2026-01-19T00:00:00.000",
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Valor Alocado em TOP 10 Sacados",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":11264667.85997154,
-    "8":21000000.0,
-    "9":9735332.14002846,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% PL em TOP 10 Sacados",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.3470884094,
-    "8":0.35,
-    "9":94494.9480284583,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Inadimplência ",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% Inadimplido Over 30D < 90D",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0038515162,
-    "8":0.15,
-    "9":null,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"% Inadimplido Over 90D",
-    "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0,
-    "8":0.1,
-    "9":null,
-    "10":null,
-    "11":"OK"
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Inadimplência Over 30D < 90D",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":125000.0,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":"Inadimplência Over 90D",
-    "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"b",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"C",
-    "3":null,
-    "4":"Principais Clientes",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"Sacados ",
-    "5":"Valor ",
-    "6":"Unid",
-    "7":"Código NX Boats",
-    "8":"Observação",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"VINICIUS ROVEDA GONCALVES",
-    "5":2016284.0341777503,
-    "6":"R$ ",
-    "7":"500-041",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"Frederico Gonçalves Nunes ",
-    "5":1441459.378788501,
-    "6":"R$ ",
-    "7":"440-023",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"\t\nFELIPE DOS ANJOS THURY",
-    "5":1294333.9724470198,
-    "6":"R$ ",
-    "7":"500-054",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"WISH PARTICIPAÇÕES LTDA",
-    "5":1278304.9530901609,
-    "6":"R$ ",
-    "7":"440-027",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"Lidieri de Barros Ferreira",
-    "5":1051626.3011236307,
-    "6":"R$ ",
-    "7":"440-022",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"José Celso Zolim Junior",
-    "5":981675.4770699868,
-    "6":"R$ ",
-    "7":"410-235",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"ECM PARTICIPACOES E INCORPORACOES LTDA",
-    "5":846168.2447231263,
-    "6":"R$ ",
-    "7":"410-232",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"JEAN CLEUTER SIMOES MENDONCA",
-    "5":814866.1687499435,
-    "6":"R$ ",
-    "7":"500-040",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"JALS EMPREENDIMENTOS E PARTICIPACOES S\/A",
-    "5":772835.3884523285,
-    "6":"R$ ",
-    "7":"440-009",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"João Ricardo Herpis Gonçalves",
-    "5":767113.9413490909,
-    "6":"R$ ",
-    "7":"410-236",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"Risco Sacado",
-    "5":"Valor ",
-    "6":"Unid",
-    "7":"Código NX Boats",
-    "8":"Observação",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"ADS NAUTICA LTDA",
-    "5":719165.5328869999,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"Nautcar Carretas Náuticas Ltda",
-    "5":386326.7086040102,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"G & J INDUSTRIA E COMERCIO DE MARMORE SINTETICO E MARCENARIA LTDA",
-    "5":197466.029009894,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"METALURGICA XEXEU LTDA",
-    "5":175406.5728547373,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"NETUNO GERADORES LTDA",
-    "5":128924.4747916223,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"N&C CARRETAS NAUTICA LTDA",
-    "5":72382.3460621307,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"CM PRODUTOS NÁUTICOS EIRELI",
-    "5":45238.925358516,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":"R$ ",
-    "7":"n.d",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":null,
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"D",
-    "3":null,
-    "4":"Receita Naval Serviços Financeiros ",
-    "5":"Unid",
-    "6":"TAG",
-    "7":"Valor",
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"d",
-    "3":null,
-    "4":"Remuneração Mensal",
-    "5":null,
-    "6":null,
-    "7":null,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"d",
-    "3":null,
-    "4":"Setembro de 2025",
-    "5":"R$",
-    "6":92025.0,
-    "7":6345.62492,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"d",
-    "3":null,
-    "4":"Outubro de 2025",
-    "5":"R$",
-    "6":102025.0,
-    "7":79525.057295,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"d",
-    "3":null,
-    "4":"Novembro de 2025",
-    "5":"R$",
-    "6":112025.0,
-    "7":86635.76564,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"d",
-    "3":null,
-    "4":"Dezembro de 2025",
-    "5":"R$",
-    "6":122025.0,
-    "7":88288.8710875,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"d",
-    "3":null,
-    "4":"Janeiro de 2026",
-    "5":"R$",
-    "6":12026.0,
-    "7":21137.02379,
-    "8":null,
-    "9":null,
-    "10":null,
-    "11":null
+# Contexto -->
+- Concordo com a sua leitura e as mudanças que você propôs
+- agora, vamos debater o visual disso dessa nova informação 
+
+## Visual contador de lanchas --> 
+- Vamos fazer em formato de tabela, usando o mesmo padrão e hierarquia de cores que já usamos 
+- quero deixar uma formatação bem parecida com a tabela de prazo médio por operação (print enviado em anexo)
+- Posição --> 
+	- esse novo campo deve ficar abaixo da parte de "Prazo Médio por operação"
+- Formatação geral --> 
+	- Título --> Quantidade de Lanchas Financiadas
+		- cor--> letras brancas e fundo azul (exatamente igual ao titulo de todos os outros campos)
+	- Tabela --> 
+	- deixe formatado como a tabela abaixo --> 
+
+
+| Lanchas Financiadas   | Quantidade |
+| --------------------- | ---------- |
+| Total Histórico Geral | 45,0       |
+| CCB                   | 17,0       |
+| Duplicatas            | 28,0       |
+| Total Atual           | 43,0       |
+| CCB                   | 17,0       |
+| Duplicatas            | 26,0       |
+
+
+## Código --> 
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Dashboard FIDC NX Boats</title>
+
+<!-- Chart.js + DataLabels -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+
+<style>
+  :root{
+    --azul-muito-escuro:#004065;
+    --azul-escuro:#286DAC;
+    --azul-claro:#A7CCEB;
+    --azul-destaque:#118DFF;
+    --cinza-mto-escuro:#666666;
+    --cinza-claro:#e5e7eb;
+    --verde-ok:#16a34a;
+    --vermelho-no:#dc2626;
   }
-]
+  *{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#eef4fb;color:#0f172a}
+  header{background:var(--azul-muito-escuro);color:#fff;padding:12px 18px;font-weight:900;font-size:28px;text-align:center;letter-spacing:.3px}
+  .wrap{max-width:1200px;margin:18px auto;padding:0 12px}
+  .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px}
+  .card{background:#fff;border-radius:12px;padding:14px;box-shadow:0 2px 10px rgba(0,0,0,.06);position:relative}
+  .band{background:var(--azul-escuro);color:#fff;border-radius:10px;padding:8px 10px;font-weight:900;margin:-6px -6px 12px;letter-spacing:.3px}
+  .kpi-valor{font-size:32px;font-weight:900;margin:6px 0;color:#000}
+  .kpi-valor.center{text-align:center}
+  .sub-title{margin:12px 0 4px;font-weight:800;color:#0f172a}
+  .table{width:100%;border-collapse:collapse;font-size:14px;background:#fff}
+  .table th,.table td{border-bottom:1px solid #dbe5f1;padding:6px 8px;text-align:left;vertical-align:top}
+  .table th{background:#f4f8fd}
+  .center{text-align:center}
+  .dbase{margin-top:8px;font-size:14px;color:#334155;opacity:.9;text-align:right}
+  .obs{margin-top:4px;font-size:14px;color:#334155;opacity:.9;text-align:right}
+
+  .col-12{grid-column:span 12}.col-8{grid-column:span 12}.col-4{grid-column:span 12}.col-6{grid-column:span 12}
+  @media(min-width:1000px){.col-8{grid-column:span 8}.col-4{grid-column:span 4}.col-6{grid-column:span 6}}
+
+  /* ========= LOGIN ========= */
+  #login{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
+  .login-card{width:100%;max-width:420px;background:#fff;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.08);padding:22px}
+  .login-head{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  .badge{background:var(--azul-escuro);color:#fff;padding:8px 12px;border-radius:12px;font-weight:900}
+  .login-title{font-size:20px;font-weight:800;margin:6px 0 2px}
+  .login-sub{font-size:13px;color:#475569;margin-bottom:16px}
+  .login-group{margin:10px 0}
+  .login-label{display:block;font-size:13px;font-weight:700;margin-bottom:6px;color:#0f172a}
+  .login-input{width:100%;border:1px solid #dbe5f1;border-radius:10px;padding:10px 12px;font-size:15px;outline:none}
+  .login-input:focus{border-color:var(--azul-escuro);box-shadow:0 0 0 3px rgba(40,109,172,.15)}
+  .login-remember{display:flex;align-items:center;gap:8px;margin:8px 0 2px;font-size:14px;color:#334155}
+  .login-error{color:#b91c1c;background:#fee2e2;border:1px solid #fecaca;border-radius:10px;padding:8px 10px;font-size:13px;display:none;margin-top:8px}
+  .login-actions{display:flex;gap:10px;margin-top:12px}
+  .btn{appearance:none;border:none;border-radius:12px;background:var(--azul-muito-escuro);color:#fff;padding:10px 14px;font-weight:900;cursor:pointer;font-size:15px}
+  .btn.sec{background:#e2e8f0;color:#0f172a;font-weight:800}
+  .muted{font-size:12px;color:#64748b;margin-top:8px}
+
+  /* ========= TABS ========= */
+  #app{display:none}
+  .tabs{display:flex;gap:8px;margin:0 auto 12px;max-width:1200px;padding:0 12px}
+  .tabbtn{background:#dbe5f1;border:none;border-radius:999px;padding:8px 14px;font-weight:800;color:#0f172a;cursor:pointer}
+  .tabbtn.active{background:var(--azul-escuro);color:#fff;box-shadow:0 2px 10px rgba(0,0,0,.08)}
+  .page{display:none}
+  .page.active{display:block}
+
+  /* ========= PÁGINA 2: estilos da planilha ========= */
+  #tbMonit thead th{background:var(--cinza-mto-escuro)!important;color:#fff}
+  .subsec{background:var(--azul-claro);font-weight:900;color:#0f172a}
+  .subsec-gray{background:var(--cinza-claro);font-weight:900;color:#0f172a}
+  .tag-ok{background:rgba(22,163,74,.12);color:var(--verde-ok);padding:2px 8px;border-radius:999px;font-weight:800;display:inline-block}
+  .tag-no{background:rgba(220,38,38,.12);color:var(--vermelho-no);padding:2px 8px;border-radius:999px;font-weight:800;display:inline-block}
+  .highlight-row{font-weight:900;border-bottom:2px solid #334155}
+
+  /* ========= MINI-TABELA COM/SEM AF ========= */
+  .mini-afbar{display:flex;justify-content:flex-end;margin:-4px 0 8px}
+  .mini-af{background:#fff;border:1px solid #e5e7eb;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,.06);overflow:hidden;min-width:260px}
+  .mini-af table{width:100%;border-collapse:collapse;font-size:13px}
+  .mini-af th{background:#f4f8fd;color:#0f172a;padding:6px 8px;text-align:center;border-bottom:1px solid #e5e7eb}
+  .mini-af td{padding:6px 8px;border-bottom:1px solid #f1f5f9}
+  .mini-af td:nth-child(2){text-align:right;font-weight:900}
+</style>
+</head>
+<body>
+
+<!-- ====== LOGIN ====== -->
+<section id="login" aria-label="Acesso ao Dashboard">
+  <div class="login-card">
+    <div class="login-head"><span class="badge">Acesso restrito</span></div>
+    <div class="login-title">Dashboard FIDC NX Boats</div>
+    <div class="login-sub">Informe usuário e senha para visualizar o dashboard.</div>
+
+    <div class="login-group">
+      <label class="login-label" for="user">Usuário</label>
+      <input id="user" class="login-input" type="text" autocomplete="username">
+    </div>
+    <div class="login-group">
+      <label class="login-label" for="pass">Senha</label>
+      <input id="pass" class="login-input" type="password" autocomplete="current-password">
+    </div>
+    <label class="login-remember">
+      <input id="remember" type="checkbox"> Lembrar acesso neste dispositivo
+    </label>
+    <div id="loginError" class="login-error">Credenciais inválidas. Tente novamente.</div>
+    <div class="login-actions">
+      <button class="btn" id="btnEnter">Entrar</button>
+      <button class="btn sec" id="btnClear">Limpar</button>
+    </div>
+    <div class="muted">Dica: marque “Lembrar acesso” para não precisar logar por 30 dias neste navegador.</div>
+  </div>
+</section>
+
+<!-- ====== APP (DASHBOARD) ====== -->
+<div id="app">
+  <header>Dashboard FIDC NX Boats</header>
+
+  <!-- Tabs -->
+  <div class="tabs">
+    <button class="tabbtn active" data-target="#page1" id="tab1">Página 1 — Resumo</button>
+    <button class="tabbtn" data-target="#page2" id="tab2">Página 2 — Monitoramento</button>
+    <button class="tabbtn" data-target="#page3" id="tab3">Página 3 — Receita</button>
+  </div>
+
+  <!-- ===== PAGE 1 ===== -->
+  <section id="page1" class="page active">
+    <div class="wrap">
+      <div class="grid">
+
+        <!-- PL -->
+        <div class="card col-6">
+          <div class="band">Patrimônio Líquido (PL)</div>
+          <div id="kpiPL" class="kpi-valor">–</div>
+
+          <div class="sub-title">Índice de Subordinação</div>
+          <div id="kpiSubInline" class="kpi-valor">–</div>
+
+          <h4 style="margin:12px 0 6px">Composição PL</h4>
+          <table class="table" id="tbPL">
+            <thead><tr><th>Classe</th><th class="center">Valor</th></tr></thead>
+            <tbody></tbody>
+          </table>
+          <div class="dbase" id="dbPL">Data-base: –</div>
+        </div>
+
+        <!-- Caixa -->
+        <div class="card col-6">
+          <div class="band">Caixa</div>
+          <div id="kpiCaixa" class="kpi-valor">–</div>
+
+          <h4 style="margin:12px 0 6px">Composição Caixa</h4>
+          <table class="table" id="tbCaixa">
+            <thead><tr><th>Alocação de Caixa</th><th class="center">Valor</th></tr></thead>
+            <tbody></tbody>
+          </table>
+          <div class="dbase" id="dbCaixa">Data-base: –</div>
+        </div>
+
+        <!-- Valor Disponível para Risco Sacado -->
+        <div class="card col-6">
+          <div class="band">Valor Disponível para Risco Sacado</div>
+          <div id="kpiRisco" class="kpi-valor center">–</div>
+          <div class="dbase" id="dbRisco">Data-base: –</div>
+        </div>
+
+        <!-- Principal Alocado (barras) + Share (rosca) -->
+        <div class="card col-8">
+          <div class="band">Principal Alocado por Operação</div>
+
+          <div class="mini-afbar">
+            <div id="miniAF" class="mini-af" aria-label="Detalhe Duplicatas AF">
+              <table>
+                <thead><tr><th colspan="2">Duplicatas — detalhamento</th></tr></thead>
+                <tbody>
+                  <tr><td>Duplicatas sem AF</td><td id="valSemAF">–</td></tr>
+                  <tr><td>Duplicatas com AF</td><td id="valComAF">–</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <canvas id="chartPrincipal" height="160"></canvas>
+          <div class="dbase" id="dbPrincipal">Data-base: –</div>
+          <div class="obs">Considera valor presente atualizado dos DCs</div>
+        </div>
+
+        <div class="card col-4">
+          <div class="band">Share da Carteira</div>
+          <canvas id="chartShare" height="160"></canvas>
+          <div class="dbase" id="dbShare">Data-base: –</div>
+        </div>
+
+        <!-- Valores a Receber + Prazo Médio -->
+        <div class="card col-8">
+          <div class="band">Valores a Receber por Operação</div>
+          <canvas id="chartReceber" height="160"></canvas>
+          <div class="dbase" id="dbReceber">Data-base: –</div>
+          <div class="obs">Considera valor presente atualizado dos DCs</div>
+        </div>
+        <div class="card col-4">
+          <div class="band">Prazo Médio por Operação</div>
+          <table class="table">
+            <thead><tr><th>Operação</th><th class="center">Dias</th></tr></thead>
+            <tbody id="tbodyPrazo"></tbody>
+          </table>
+          <div class="dbase" id="dbPrazo">Data-base: –</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PAGE 2 ===== -->
+  <section id="page2" class="page">
+    <div class="wrap grid">
+      <!-- Índices de Monitoramento -->
+      <div class="card col-12">
+        <div class="band">Índices de Monitoramento</div>
+        <table class="table" id="tbMonit">
+          <thead>
+            <tr>
+              <th>Indicador</th>
+              <th class="center">Unidade</th>
+              <th class="center">Data Base</th>
+              <th class="center">Valor Atual</th>
+              <th class="center">Índice Alvo</th>
+              <th class="center">Valor Disponível</th>
+              <th>Descrição</th>
+              <th class="center">Enquadramento</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!-- Principais Clientes — Sacados -->
+      <div class="card col-12">
+        <div class="band">Principais Clientes — Sacados</div>
+        <table class="table" id="tbSacados">
+          <thead>
+            <tr>
+              <th>Nome do sacado</th><th class="center">Unidade</th><th class="center">Valor alocado</th><th class="center">Código NX Boats</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!-- Principais Clientes — Risco Sacado -->
+      <div class="card col-12">
+        <div class="band">Principais Clientes — Risco Sacado</div>
+        <table class="table" id="tbRiscoSac">
+          <thead>
+            <tr>
+              <th>Nome do Cedente</th><th class="center">Unidade</th><th class="center">Valor alocado</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PAGE 3 ===== -->
+  <section id="page3" class="page">
+    <div class="wrap grid">
+      <div class="card col-12">
+        <div class="band">Receita Naval Serviços Financeiros</div>
+        <canvas id="chartReceita" height="160"></canvas>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+/* =========================
+   LOGIN / AUTENTICAÇÃO
+   ========================= */
+// Níveis: 'basic' (duas páginas) | 'full' (três páginas)
+const CREDS = {
+  basic: { user:'fidcnxboats', pass:'fidcnxb2025' },
+  full:  { user:'Seteasset',   pass:'asset2025'  }
+};
+const REMEMBER_KEY = 'nxAuth';
+const REMEMBER_TTL = 30 * 24 * 60 * 60 * 1000; // 30 dias
+
+function rememberNow(level){
+  localStorage.setItem(REMEMBER_KEY, JSON.stringify({ok:true, ts:Date.now(), level}));
+}
+function readRemember(){
+  try{
+    const raw = localStorage.getItem(REMEMBER_KEY);
+    if(!raw) return null;
+    const obj = JSON.parse(raw);
+    if(!obj || !obj.ok || !obj.ts) return null;
+    if(Date.now()-obj.ts > REMEMBER_TTL) return null;
+    // retrocompatibilidade: se não houver level, assume básico
+    return { level: obj.level || 'basic' };
+  }catch(e){ return null; }
+}
+function clearRemember(){ localStorage.removeItem(REMEMBER_KEY); }
+
+function showApp(level){
+  // controla visibilidade da aba/página 3
+  const tab3 = document.getElementById('tab3');
+  const page3 = document.getElementById('page3');
+  const allowFull = (level === 'full');
+
+  tab3.style.display = allowFull ? 'inline-block' : 'none';
+  if(!allowFull){
+    page3.classList.remove('active'); // garante que não fique ativa
+    // se o usuário estava na página 3 (ex.: refresh), ativa a 1
+    document.getElementById('page1').classList.add('active');
+    document.getElementById('tab1').classList.add('active');
+    document.getElementById('tab2').classList.remove('active');
+  }
+
+  document.getElementById('login').style.display='none';
+  document.getElementById('app').style.display='block';
+
+  setupTabs();      // tabs dependem da presença/ausência da tab3
+  bootDashboard();  // carrega dados
+}
+
+function handleLogin(){
+  const u = document.getElementById('user').value.trim();
+  const p = document.getElementById('pass').value.trim();
+  const remember = document.getElementById('remember').checked;
+  const err = document.getElementById('loginError');
+
+  let level = null;
+  if(u===CREDS.full.user && p===CREDS.full.pass) level = 'full';
+  else if(u===CREDS.basic.user && p===CREDS.basic.pass) level = 'basic';
+
+  if(level){
+    err.style.display='none';
+    if(remember) rememberNow(level); else clearRemember();
+    showApp(level);
+  }else{
+    err.style.display='block';
+  }
+}
+
+function prepLoginUI(){
+  document.getElementById('btnEnter').addEventListener('click', handleLogin);
+  document.getElementById('btnClear').addEventListener('click', ()=>{
+    document.getElementById('user').value='';
+    document.getElementById('pass').value='';
+    document.getElementById('loginError').style.display='none';
+  });
+  document.getElementById('pass').addEventListener('keydown', (e)=>{ if(e.key==='Enter') handleLogin(); });
+
+  const remembered = readRemember();
+  if(remembered) showApp(remembered.level);
+}
+
+/* =========================
+   CONSTANTES & HELPERS
+   ========================= */
+const DEFAULT_JSON = 'data/carteira_power_bi.json';
+const C_TOTAL='#004065', C_CCB='#286DAC', C_DUP='#666666', C_RISCO='#118DFF', C_AZUL_CLARO='#A7CCEB';
+
+const brlFull = v => (Number(v)||0).toLocaleString('pt-BR',{style:'currency',currency:'BRL',minimumFractionDigits:2,maximumFractionDigits:2});
+const pct1 = v => (Number(v)||0).toLocaleString('pt-BR',{style:'percent',minimumFractionDigits:1,maximumFractionDigits:1});
+function toBRDate(str){ if(!str) return '–'; const d=new Date(str); return isNaN(d)? String(str) : d.toLocaleDateString('pt-BR'); }
+
+/* =========================
+   PARSE DO NOVO JSON (1..11)
+   ========================= */
+function parseNew(rows){
+  const norm = rows.map(r=>{ const out={}; for(let i=1;i<=11;i++) out[i]= r[String(i)] ?? null; return out; });
+  const sec = { A:[], a:[], B:[], b:[], C:[], c:[], D:[], d:[] };
+  norm.forEach(r=>{ const k=r[2]; if(k && sec.hasOwnProperty(k)) sec[k].push(r); });
+  return {
+    A:{ rows:sec['a'], find:name=>sec['a'].find(r => (r[4]||'').trim().toLowerCase()===name.trim().toLowerCase()) },
+    B:{ rows:sec['b'], find:name=>sec['b'].find(r => (r[4]||'').trim().toLowerCase()===name.trim().toLowerCase()) },
+    C:{ rows:sec['c'] },
+    D:{ rows:sec['d'] }
+  };
+}
+
+/* =========================
+   TABS
+   ========================= */
+function setupTabs(){
+  document.querySelectorAll('.tabbtn').forEach(btn=>{
+    if(btn.style.display==='none') return; // ignora tabs ocultas
+    btn.addEventListener('click', ()=>{
+      // limpa estados
+      document.querySelectorAll('.tabbtn').forEach(b=>b.classList.remove('active'));
+      document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+      // ativa selecionados
+      btn.classList.add('active');
+      const target=document.querySelector(btn.dataset.target);
+      if(target) target.classList.add('active');
+    }, { once:false });
+  });
+}
+
+/* =========================
+   OPÇÕES DE BARRA
+   ========================= */
+function commonBarOptions(maxVal){
+  return {
+    plugins:{
+      legend:{ display:false },
+      datalabels:{ anchor:'end', align:'end', formatter:(v)=> 'R$ ' + (Number(v)||0).toLocaleString('pt-BR'), color:'#000', font:{weight:'700', size:14} },
+      tooltip:{ callbacks:{ label:(c)=> 'R$ ' + (Number(c.parsed.y)||0).toLocaleString('pt-BR') } }
+    },
+    layout:{ padding:{ top:20 } },
+    scales:{
+      x:{ grid:{display:false} },
+      y:{ grid:{display:false}, ticks:{ display:false }, beginAtZero:true, suggestedMax:maxVal*1.15 }
+    }
+  };
+}
+
+/* =========================
+   PÁGINA 1 (A + referências de B)
+   ========================= */
+let chartPrincipal, chartShare, chartReceber, chartReceita;
+
+function renderPage1(sections){
+  const {A,B} = sections;
+
+  // KPIs PL
+  const pl = A.find('Patrimônio Líquido (PL)');
+  document.getElementById('kpiPL').textContent = pl? brlFull(pl[7]) : '–';
+  document.getElementById('dbPL').textContent  = 'Data-base: ' + toBRDate(pl && pl[6]);
+
+  // Caixa total
+  const caixaTot = A.find('(=) Caixa e Disponibilidades');
+  document.getElementById('kpiCaixa').textContent = caixaTot ? brlFull(caixaTot[7]) : '–';
+  document.getElementById('dbCaixa').textContent  = 'Data-base: ' + toBRDate(caixaTot && caixaTot[6]);
+
+  // Índice de Subordinação (B)
+  const idxSenior = B.find('Índice de Subordinação Cotas Sênior') || B.find('Índice de Subordinação Cotas Sênior ');
+  document.getElementById('kpiSubInline').textContent = idxSenior? pct1(idxSenior[7]) : '–';
+
+  // Valor Disponível p/ Risco Sacado (B → col 9)
+  const riscoDisp = B.find('% de PL Alocado em Risco Sacado');
+  document.getElementById('kpiRisco').textContent = riscoDisp? brlFull(riscoDisp[9]) : '–';
+  const principalDate = A.find('(=) Principal Alocado');
+  document.getElementById('dbRisco').textContent = 'Data-base: ' + toBRDate(principalDate && principalDate[6]);
+
+  renderTabelaPL_A(A);
+  renderTabelaCaixa_A(A);
+  renderPrincipal_A(A);
+  renderShare_A(A);
+  renderReceber_A(A);
+  renderPrazo_A(A);
+}
+
+function renderTabelaPL_A(A){
+  const tbody=document.querySelector('#tbPL tbody'); tbody.innerHTML='';
+  ['Cotas Sêniores','Cotas Mezanino','Cotas Subordinadas'].forEach(label=>{
+    const r=A.find(label); const v=r? Number(r[7])||0 : 0;
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td>${label}</td><td class="center">${brlFull(v)}</td>`;
+    tbody.appendChild(tr);
+  });
+}
+function renderTabelaCaixa_A(A){
+  const tbody=document.querySelector('#tbCaixa tbody'); tbody.innerHTML='';
+  [
+    {disp:'(+) Liquidez Imediata', key:'(+) Liquidez Imediata'},
+    {disp:'(+) Kanastra', key:'(+) Kanastra'},
+    {disp:'(+) Santander', key:'(+) Santander'}
+  ].forEach(it=>{
+    const r=A.find(it.key); const v=r? Number(r[7])||0 : 0;
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td>${it.disp}</td><td class="center">${brlFull(v)}</td>`;
+    tbody.appendChild(tr);
+  });
+}
+
+function renderPrincipal_A(A){
+  const dup = A.find('Duplicatas');
+  const ccb = A.find('CCB');
+  const ris = A.find('Risco Sacado');
+  const total = A.find('(=) Principal Alocado');
+  const comAF = A.find('com alienação');
+  const semAF = A.find('Sem Alienação');
+
+  document.getElementById('valSemAF').textContent = semAF? brlFull(semAF[7]) : '–';
+  document.getElementById('valComAF').textContent = comAF? brlFull(comAF[7]) : '–';
+
+  const labels=['Total','Duplicatas','CCB','Risco Sacado'];
+  const data=[
+    total? Number(total[7])||0 : 0,
+    dup? Number(dup[7])||0 : 0,
+    ccb? Number(ccb[7])||0 : 0,
+    ris? Number(ris[7])||0 : 0
+  ];
+  const colors=[C_TOTAL,C_DUP,C_CCB,C_RISCO];
+
+  const ctx=document.getElementById('chartPrincipal');
+  if(chartPrincipal) chartPrincipal.destroy();
+  chartPrincipal=new Chart(ctx,{
+    type:'bar',
+    data:{ labels, datasets:[{ data, backgroundColor: colors }] },
+    options: commonBarOptions(Math.max(...data)),
+    plugins:[ChartDataLabels]
+  });
+
+  document.getElementById('dbPrincipal').textContent = 'Data-base: ' + toBRDate(total && total[6]);
+}
+
+function renderShare_A(A){
+  const ccb=A.find('CCB'); const dup=A.find('Duplicatas'); const ris=A.find('Risco Sacado');
+  const ctx=document.getElementById('chartShare');
+  if(chartShare) chartShare.destroy();
+  chartShare=new Chart(ctx,{
+    type:'doughnut',
+    data:{ labels:['Duplicatas','CCB','Risco Sacado'], datasets:[{ data:[dup?dup[7]:0, ccb?ccb[7]:0, ris?ris[7]:0], backgroundColor:[C_DUP,C_CCB,C_RISCO] }] },
+    options:{ plugins:{ legend:{position:'bottom'}, datalabels:{ formatter:(v,ctx)=>{const t=ctx.dataset.data.reduce((a,b)=>a+Number(b||0),0); return t? pct1(v/t) : ''; }, color:'#fff', font:{weight:'700', size:16} } } },
+    plugins:[ChartDataLabels]
+  });
+  const total=A.find('(=) Principal Alocado');
+  document.getElementById('dbShare').textContent = 'Data-base: ' + toBRDate(total && total[6]);
+}
+function renderReceber_A(A){
+  const tot=A.find('(=) Valores a Receber');
+  const idx = A.rows.indexOf(tot);
+  let ccbRec, dupRec, risRec;
+  if(idx>=0){
+    ccbRec = A.rows[idx+1] && (A.rows[idx+1][4]||'').trim().toLowerCase()==='ccb' ? A.rows[idx+1] : null;
+    dupRec = A.rows[idx+2] && (A.rows[idx+2][4]||'').trim().toLowerCase()==='duplicatas' ? A.rows[idx+2] : null;
+    risRec = A.rows[idx+3] && (A.rows[idx+3][4]||'').trim().toLowerCase()==='risco sacado' ? A.rows[idx+3] : null;
+  }
+  const labels=['Total','Duplicatas','CCB','Risco Sacado'];
+  const data=[ tot?Number(tot[7])||0:0, dupRec?Number(dupRec[7])||0:0, ccbRec?Number(ccbRec[7])||0:0, risRec?Number(risRec[7])||0:0 ];
+  const ctx=document.getElementById('chartReceber');
+  if(chartReceber) chartReceber.destroy();
+  chartReceber=new Chart(ctx,{
+    type:'bar',
+    data:{labels,datasets:[{data,backgroundColor:[C_TOTAL,C_DUP,C_CCB,C_RISCO]}]},
+    options: commonBarOptions(Math.max(...data)),
+    plugins:[ChartDataLabels]
+  });
+  document.getElementById('dbReceber').textContent='Data-base: ' + toBRDate(tot && tot[6]);
+}
+function renderPrazo_A(A){
+  // Como o JSON é estático, usamos a posição: o bloco "Prazo Médio" vem seguido por CCB, Duplicatas e Risco Sacado.
+  const rows = A.rows || [];
+
+  // Encontra a linha do TOTAL do prazo médio (garantindo a unidade "Dias Corridos")
+  const total = rows.find(r =>
+    ((r[4] || '').trim().toLowerCase() === '(=) prazo médio') &&
+    ((r[5] || '').trim().toLowerCase() === 'dias corridos')
+  );
+
+  const idx = total ? rows.indexOf(total) : -1;
+
+  // Captura as três linhas imediatamente abaixo (ordem esperada no JSON: CCB, Duplicatas, Risco Sacado)
+  let ccb = null, dup = null, ris = null;
+  if(idx >= 0){
+    const r1 = rows[idx + 1];
+    const r2 = rows[idx + 2];
+    const r3 = rows[idx + 3];
+
+    if(r1 && ((r1[4] || '').trim().toLowerCase() === 'ccb')) ccb = r1;
+    if(r2 && ((r2[4] || '').trim().toLowerCase() === 'duplicatas')) dup = r2;
+    if(r3 && ((r3[4] || '').trim().toLowerCase() === 'risco sacado')) ris = r3;
+  }
+
+  // Mantém exatamente a mesma ordem e formatação que você já usa na tabela
+  const linhas = [
+    { label: '(=) Prazo Médio', valor: total ? Number(total[7]) || 0 : 0 },
+    { label: 'Duplicatas',      valor: dup   ? Number(dup[7])   || 0 : 0 },
+    { label: 'CCB',             valor: ccb   ? Number(ccb[7])   || 0 : 0 },
+    { label: 'Risco Sacado',    valor: ris   ? Number(ris[7])   || 0 : 0 }
+  ];
+
+  const tb = document.getElementById("tbodyPrazo");
+  tb.innerHTML = '';
+
+  linhas.forEach(r=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${r.label}</td><td class="center">${(Number(r.valor)||0).toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})}</td>`;
+    tb.appendChild(tr);
+  });
+
+  // Mantém sua lógica original de data-base
+  document.getElementById('dbPrazo').textContent = 'Data-base: ' + toBRDate(total && total[6]);
+}
+
+/* =========================
+   PÁGINA 2 (B, C)
+   ========================= */
+function renderPage2(sections){
+  renderMonit_B(sections.B);
+  renderClientes_C(sections.C);
+}
+
+function renderMonit_B(B){
+  const tbody=document.querySelector('#tbMonit tbody'); tbody.innerHTML='';
+  const rows=B.rows||[];
+  const titleBlue = v => ['Subordinação','Alocação','Inadimplência'].includes((v||'').trim());
+  const titleGray = v => ['Por Operação','Por Sacado'].includes((v||'').trim());
+
+  rows.forEach(r=>{
+    const nome=(r[4]||'').trim(); if(!nome) return;
+
+    if(titleBlue(nome) || titleGray(nome)){
+      const tr=document.createElement('tr');
+      tr.className = titleGray(nome) ? 'subsec-gray' : 'subsec';
+      tr.innerHTML=`<td colspan="8">${nome}</td>`;
+      tbody.appendChild(tr);
+      return;
+    }
+
+    const unidade = r[5]||'';
+    const dataB   = r[6] ? toBRDate(r[6]) : '';
+    const valAt   = r[7]!=null ? (r[5]==='%' ? pct1(r[7]) : brlFull(r[7])) : '';
+    const alvo    = r[8]!=null ? (r[5]==='%' ? pct1(r[8]) : brlFull(r[8])) : '';
+    const disp    = r[9]!=null ? brlFull(r[9]) : '';
+    const desc    = r[10]||'';
+    const enqua   = (r[11]||'').toString().trim().toUpperCase();
+    const tag = enqua==='DESENQUADRADO' ? `<span class="tag-no">DESENQUADRADO</span>` : (enqua==='OK' ? `<span class="tag-ok">OK</span>` : '');
+
+    const isTopLine = ['TOP 1 Sacados','TOP 5 Sacados','TOP 10 Sacados'].includes(nome);
+    const tr=document.createElement('tr');
+    if(isTopLine) tr.classList.add('highlight-row');
+    tr.innerHTML = `
+      <td>${nome}</td>
+      <td class="center">${unidade||''}</td>
+      <td class="center">${dataB}</td>
+      <td class="center">${valAt}</td>
+      <td class="center">${alvo}</td>
+      <td class="center">${disp}</td>
+      <td>${desc}</td>
+      <td class="center">${tag}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function renderClientes_C(C){
+  const sacHeaderIdx = C.rows.findIndex(r => (r[4]||'').trim().toLowerCase()==='sacados');
+  const riscoHeaderIdx = C.rows.findIndex(r => (r[4]||'').trim().toLowerCase()==='risco sacado');
+
+  const sacRows = [];
+  for(let i=sacHeaderIdx+1; i<C.rows.length; i++){
+    const r=C.rows[i]; const nome=(r[4]||'').trim();
+    if(!nome || (r[4] && ['risco sacado'].includes(nome.toLowerCase()))) break;
+    if(r[5]==null && r[6]==null && r[7]==null) continue;
+    sacRows.push(r);
+  }
+
+  const riscoRows = [];
+  if(riscoHeaderIdx>=0){
+    for(let i=riscoHeaderIdx+1; i<C.rows.length; i++){
+      const r=C.rows[i]; const nome=(r[4]||'').trim();
+      if(!nome) break;
+      riscoRows.push(r);
+    }
+  }
+
+  const tbS=document.querySelector('#tbSacados tbody'); tbS.innerHTML='';
+  sacRows.forEach(r=>{
+    const tr=document.createElement('tr');
+    tr.innerHTML=`
+      <td>${(r[4]||'').trim()}</td>
+      <td class="center">${r[6]||''}</td>
+      <td class="center">${brlFull(r[5])}</td>
+      <td class="center">${r[7]||''}</td>
+    `;
+    tbS.appendChild(tr);
+  });
+
+  const tbR=document.querySelector('#tbRiscoSac tbody'); tbR.innerHTML='';
+  riscoRows.forEach(r=>{
+    const tr=document.createElement('tr');
+    tr.innerHTML=`
+      <td>${(r[4]||'').trim()}</td>
+      <td class="center">${r[6]||''}</td>
+      <td class="center">${brlFull(r[5])}</td>
+    `;
+    tbR.appendChild(tr);
+  });
+}
+
+/* =========================
+   PÁGINA 3 (D)
+   ========================= */
+function renderPage3(sections){
+  renderReceita_D(sections.D);
+}
+function renderReceita_D(D){
+  const rows = (D.rows||[]).filter(r => r[4] && r[7]!=null);
+  const labels = rows.map(r => (r[4]||'').trim());
+  const data   = rows.map(r => Number(r[7])||0);
+
+  const ctx=document.getElementById('chartReceita');
+  if(!ctx) return; // caso usuário básico (sem canvas)
+  if(chartReceita) chartReceita.destroy();
+  chartReceita = new Chart(ctx,{
+    type:'bar',
+    data:{ labels, datasets:[{ data: data.map(v=>v/1000), backgroundColor: C_AZUL_CLARO, borderColor: C_AZUL_CLARO }] },
+    options:{
+      plugins:{
+        legend:{display:false},
+        datalabels:{ formatter:(v)=> v.toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})+' mil', anchor:'end', align:'end', color:'#000', font:{weight:'800',size:12} },
+        tooltip:{ callbacks:{ label:(c)=> 'R$ ' + (Number(c.raw)*1000).toLocaleString('pt-BR') } }
+      },
+      scales:{ x:{ grid:{display:false} }, y:{ grid:{display:false}, ticks:{ display:false }, beginAtZero:true, suggestedMax: Math.max(...data)/1000 * 1.25 } },
+      layout:{ padding:{ top:20 } }
+    },
+    plugins:[ChartDataLabels]
+  });
+}
+
+/* =========================
+   LOAD
+   ========================= */
+function bootDashboard(){
+  const bust=`?v=${Date.now()}`;
+  fetch(DEFAULT_JSON + bust)
+    .then(r=>{ if(!r.ok) throw new Error('Falha ao ler JSON'); return r.json(); })
+    .then(raw=>{
+      const sections=parseNew(raw);
+      renderPage1(sections);
+      renderPage2(sections);
+      // Se a aba 3 estiver disponível (usuário completo), renderiza a Page 3
+      if(document.getElementById('tab3').style.display !== 'none'){
+        renderPage3(sections);
+      }
+    })
+    .catch(err=> alert('Erro ao carregar JSON: ' + err.message));
+}
+
+Chart.register(ChartDataLabels);
+window.addEventListener('DOMContentLoaded', prepLoginUI);
+</script>
+</body>
+</html>
+# Tarefa --> 
+- Me envie o código completo para eu copiar e colar
+- 
