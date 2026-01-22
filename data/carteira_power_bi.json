@@ -10,7 +10,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -23,7 +24,8 @@
     "8":"Observação",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -36,7 +38,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -44,12 +47,13 @@
     "3":null,
     "4":"(=) Principal Alocado",
     "5":"R$ ",
-    "6":"2026-01-21T00:00:00.000",
-    "7":23793431.0956806168,
+    "6":"2026-01-22T00:00:00.000",
+    "7":23518566.8824490607,
     "8":"Considera VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -58,11 +62,12 @@
     "4":"CCB",
     "5":"R$",
     "6":null,
-    "7":7912359.7424614774,
+    "7":7908249.65531787,
     "8":"Considera VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -71,11 +76,12 @@
     "4":"Duplicatas",
     "5":"R$",
     "6":null,
-    "7":14131300.9880808108,
+    "7":14041217.85311676,
     "8":"Considera VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -84,11 +90,12 @@
     "4":"com alienação",
     "5":"R$",
     "6":null,
-    "7":8282054.9764748039,
+    "7":8257894.8083517831,
     "8":"Considera VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -97,11 +104,12 @@
     "4":"Sem Alienação",
     "5":"R$",
     "6":null,
-    "7":5849246.0116060153,
+    "7":5783323.0447649872,
     "8":"Considera VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -110,11 +118,12 @@
     "4":"Risco Sacado",
     "5":"R$",
     "6":null,
-    "7":1749770.3651383305,
+    "7":1569099.3740144297,
     "8":"Considera VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -122,12 +131,13 @@
     "3":null,
     "4":"(=) Valores a Receber",
     "5":"R$",
-    "6":"2026-01-21T00:00:00.000",
-    "7":27162316.2999999896,
+    "6":"2026-01-22T00:00:00.000",
+    "7":26864798.3199999891,
     "8":"Considera PMT",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -136,11 +146,12 @@
     "4":"CCB",
     "5":"R$",
     "6":null,
-    "7":9692320.079999987,
+    "7":9680820.079999987,
     "8":"Considera PMT",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -149,11 +160,12 @@
     "4":"Duplicatas",
     "5":"R$",
     "6":null,
-    "7":15627630.5600000024,
+    "7":15524805.5600000024,
     "8":"Considera PMT",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -162,11 +174,12 @@
     "4":"Risco Sacado",
     "5":"R$",
     "6":null,
-    "7":1842365.6599999995,
+    "7":1659172.6799999997,
     "8":"Considera PMT",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -174,12 +187,13 @@
     "3":null,
     "4":"(=) Share da Carteira",
     "5":"%",
-    "6":"2026-01-21T00:00:00.000",
+    "6":"2026-01-22T00:00:00.000",
     "7":1.0,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -188,11 +202,12 @@
     "4":"CCB",
     "5":"%",
     "6":null,
-    "7":0.3325438736,
+    "7":0.3362555931,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -201,11 +216,12 @@
     "4":"Duplicatas",
     "5":"%",
     "6":null,
-    "7":0.5939160658,
+    "7":0.5970269329,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -214,11 +230,12 @@
     "4":"Risco Sacado",
     "5":"%",
     "6":null,
-    "7":0.0735400606,
+    "7":0.066717474,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -226,12 +243,13 @@
     "3":null,
     "4":"(=) Prazo Médio ",
     "5":"Dias Corridos",
-    "6":"2026-01-21T00:00:00.000",
-    "7":185.1928545362,
+    "6":"2026-01-22T00:00:00.000",
+    "7":186.413772784,
     "8":"Considera apenas DCs adimplentes",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -240,11 +258,12 @@
     "4":"CCB",
     "5":"Dias Corridos",
     "6":null,
-    "7":283.2681825198,
+    "7":282.463731813,
     "8":"Considera apenas DCs adimplentes",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -253,11 +272,12 @@
     "4":"Duplicatas",
     "5":"Dias Corridos",
     "6":null,
-    "7":148.2289675683,
+    "7":148.2424281515,
     "8":"Considera apenas DCs adimplentes",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -266,11 +286,12 @@
     "4":"Risco Sacado",
     "5":"Dias Corridos",
     "6":null,
-    "7":40.2255665499,
+    "7":43.9021553834,
     "8":"Considera apenas DCs adimplentes",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -283,7 +304,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -291,12 +313,13 @@
     "3":null,
     "4":"Patrimônio Líquido (PL)",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":32454750.8799999952,
+    "6":"2026-01-20T00:00:00.000",
+    "7":32384251.7399999984,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -305,11 +328,12 @@
     "4":"Cotas Sêniores",
     "5":"R$",
     "6":null,
-    "7":20303844.8099999987,
+    "7":20318587.2699999996,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -318,11 +342,12 @@
     "4":"Cotas Mezanino",
     "5":"R$",
     "6":null,
-    "7":3738008.7000000002,
+    "7":3741073.79,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -331,11 +356,12 @@
     "4":"Cotas Subordinadas",
     "5":"R$",
     "6":null,
-    "7":8412897.3699999992,
+    "7":8324590.6799999997,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -348,7 +374,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -356,12 +383,13 @@
     "3":null,
     "4":"(=) Caixa e Disponibilidades",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":8804067.9000000004,
+    "6":"2026-01-20T00:00:00.000",
+    "7":9007119.3600000013,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -370,11 +398,12 @@
     "4":"(+) Kanastra",
     "5":"R$",
     "6":null,
-    "7":108603.99,
+    "7":216121.11,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -383,11 +412,12 @@
     "4":"(+) Santander",
     "5":"R$",
     "6":null,
-    "7":289592.42,
+    "7":380501.77,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -396,11 +426,12 @@
     "4":"(+) Liquidez Imediata",
     "5":"R$",
     "6":null,
-    "7":8405871.4900000002,
+    "7":8410496.4800000004,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -413,7 +444,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -426,7 +458,8 @@
     "8":"Índice Alvo",
     "9":"Valor Disponível",
     "10":"Descrição",
-    "11":"Enquadramento"
+    "11":"Enquadramento",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -439,7 +472,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -447,12 +481,13 @@
     "3":null,
     "4":"Índice de Subordinação Cotas Mezanino",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.6923679042,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.6899405085,
     "8":0.25,
-    "9":29913580.7799999975,
+    "9":29557288.9299999997,
     "10":"Valor que pode chamar de mezanino, mantendo a Subordinada",
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -460,12 +495,13 @@
     "3":null,
     "4":"Índice de Subordinação Cotas Sênior ",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.3743952962,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.3725781459,
     "8":0.35,
-    "9":14413029.6757142879,
+    "9":14154739.7871428542,
     "10":"Valor que pode chamar de Sênior, mantendo a mezanino e subordinada",
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -478,7 +514,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -491,7 +528,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -499,12 +537,13 @@
     "3":null,
     "4":"% de PL Alocado em Direitos Creditórios",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.7331262897,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.7262346857,
     "8":0.67,
-    "9":-2048748.00608062,
+    "9":-1821118.2166490592,
     "10":"Valor necessário para alocar em direitos creditórios ",
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -512,12 +551,13 @@
     "3":null,
     "4":"% de PL Alocado em Risco Sacado",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0539141518,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.0484525437,
     "8":0.2,
-    "9":4741179.8108616685,
+    "9":4907750.9739855705,
     "10":"Valor que pode alocar em risco sacado",
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -525,12 +565,13 @@
     "3":null,
     "4":"% de PL Mezanino + Junior Alocado em Duplicatas sem AF",
     "5":null,
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.4813835263,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.4793207253,
     "8":1.0,
-    "9":6301660.058393985,
+    "9":6282341.4252350116,
     "10":"Valor que pode alocar em duplicatas sem alienação",
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -543,7 +584,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -551,12 +593,13 @@
     "3":null,
     "4":"TOP 1 Sacados",
     "5":null,
-    "6":"2026-01-19T00:00:00.000",
+    "6":"2026-01-20T00:00:00.000",
     "7":null,
     "8":null,
     "9":null,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -564,12 +607,13 @@
     "3":null,
     "4":"Valor Alocado em TOP 1 Sacados",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":2018176.8285635663,
+    "6":"2026-01-20T00:00:00.000",
+    "7":2020071.3998173855,
     "8":3000000.0,
-    "9":981823.1714364337,
+    "9":979928.6001826145,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -577,12 +621,13 @@
     "3":null,
     "4":"% PL em TOP 1 Sacados",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0621843266,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.0623782021,
     "8":0.05,
-    "9":-395439.2845635666,
+    "9":-400858.8128173854,
     "10":null,
-    "11":"DESENQUADRADO"
+    "11":"DESENQUADRADO",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -590,12 +635,13 @@
     "3":null,
     "4":"TOP 5 Sacados",
     "5":null,
-    "6":"2026-01-19T00:00:00.000",
+    "6":"2026-01-20T00:00:00.000",
     "7":null,
     "8":null,
     "9":null,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -603,12 +649,13 @@
     "3":null,
     "4":"Valor Alocado em TOP 5 Sacados",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":7088541.8711266555,
+    "6":"2026-01-20T00:00:00.000",
+    "7":7095081.1379595026,
     "8":12000000.0,
-    "9":4911458.1288733445,
+    "9":4904918.8620404974,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -616,12 +663,13 @@
     "3":null,
     "4":"% PL em TOP 5 Sacados",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.2184130729,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.2190904763,
     "8":0.2,
-    "9":-597591.6951266564,
+    "9":-618230.7899595024,
     "10":null,
-    "11":"DESENQUADRADO"
+    "11":"DESENQUADRADO",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -629,12 +677,13 @@
     "3":null,
     "4":"TOP 10 Sacados",
     "5":null,
-    "6":"2026-01-19T00:00:00.000",
+    "6":"2026-01-20T00:00:00.000",
     "7":null,
     "8":null,
     "9":null,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -642,12 +691,13 @@
     "3":null,
     "4":"Valor Alocado em TOP 10 Sacados",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
-    "7":11274918.2993990518,
+    "6":"2026-01-20T00:00:00.000",
+    "7":11214257.6945302747,
     "8":21000000.0,
-    "9":9725081.7006009482,
+    "9":9785742.3054697253,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -655,12 +705,13 @@
     "3":null,
     "4":"% PL em TOP 10 Sacados",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.3474042473,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.3462873802,
     "8":0.35,
-    "9":84244.5086009465,
+    "9":120230.4144697245,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -673,7 +724,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -681,12 +733,13 @@
     "3":null,
     "4":"% Inadimplido Over 30D < 90D",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
-    "7":0.0038515162,
+    "6":"2026-01-20T00:00:00.000",
+    "7":0.0038599008,
     "8":0.15,
     "9":null,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -694,12 +747,13 @@
     "3":null,
     "4":"% Inadimplido Over 90D",
     "5":"%",
-    "6":"2026-01-19T00:00:00.000",
+    "6":"2026-01-20T00:00:00.000",
     "7":0.0,
     "8":0.1,
     "9":null,
     "10":null,
-    "11":"OK"
+    "11":"OK",
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -707,12 +761,13 @@
     "3":null,
     "4":"Inadimplência Over 30D < 90D",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
+    "6":"2026-01-20T00:00:00.000",
     "7":125000.0,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -720,12 +775,13 @@
     "3":null,
     "4":"Inadimplência Over 90D",
     "5":"R$",
-    "6":"2026-01-19T00:00:00.000",
+    "6":"2026-01-20T00:00:00.000",
     "7":0.0,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -738,7 +794,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -751,7 +808,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -764,137 +822,148 @@
     "8":"Observação",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"VINICIUS ROVEDA GONCALVES",
-    "5":2018176.8285635663,
+    "5":2020071.3998173855,
     "6":"R$ ",
     "7":"500-041",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"Frederico Gonçalves Nunes ",
-    "5":1442812.5543199759,
+    "5":1444167.0001501816,
     "6":"R$ ",
     "7":"440-023",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"\t\nFELIPE DOS ANJOS THURY",
-    "5":1295434.0021103276,
+    "5":1296534.966667786,
     "6":"R$ ",
     "7":"500-054",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"WISH PARTICIPAÇÕES LTDA",
-    "5":1279504.966777496,
+    "5":1280706.1069822926,
     "6":"R$ ",
     "7":"440-027",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"Lidieri de Barros Ferreira",
-    "5":1052613.5193552896,
+    "5":1053601.6643418572,
     "6":"R$ ",
     "7":"440-022",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"José Celso Zolim Junior",
-    "5":982597.0286967389,
+    "5":983519.4454336223,
     "6":"R$ ",
     "7":"410-235",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"ECM PARTICIPACOES E INCORPORACOES LTDA",
-    "5":846962.5884147484,
+    "5":847757.6777995639,
     "6":"R$ ",
     "7":"410-232",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"JEAN CLEUTER SIMOES MENDONCA",
-    "5":815558.7079062449,
+    "5":816251.8356383168,
     "6":"R$ ",
     "7":"500-040",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
-  },
-  {
-    "1":null,
-    "2":"c",
-    "3":null,
-    "4":"JALS EMPREENDIMENTOS E PARTICIPACOES S\/A",
-    "5":773492.2064531295,
-    "6":"R$ ",
-    "7":"440-009",
-    "8":"Com base no VP Atualizado",
-    "9":null,
-    "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"João Ricardo Herpis Gonçalves",
-    "5":767765.8968015354,
+    "5":768418.4063384369,
     "6":"R$ ",
     "7":"410-236",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"c",
+    "3":null,
+    "4":"JALS EMPREENDIMENTOS E PARTICIPACOES S\/A",
+    "5":703229.1913608324,
+    "6":"R$ ",
+    "7":"440-009",
+    "8":"Com base no VP Atualizado",
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -907,7 +976,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -920,98 +990,106 @@
     "8":"Observação",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"ADS NAUTICA LTDA",
-    "5":742191.3283244134,
+    "5":720469.4592251045,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"Nautcar Carretas Náuticas Ltda",
-    "5":387031.1769021371,
+    "5":306380.0889041508,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"G & J INDUSTRIA E COMERCIO DE MARMORE SINTETICO E MARCENARIA LTDA",
-    "5":197826.1091034944,
+    "5":198186.8458045855,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"METALURGICA XEXEU LTDA",
-    "5":175726.4274418191,
+    "5":138290.1537465159,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"NETUNO GERADORES LTDA",
-    "5":129159.5690869961,
+    "5":87722.1980854292,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"N&C CARRETAS NAUTICA LTDA",
-    "5":72514.3355596445,
+    "5":72646.5657405349,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
     "2":"c",
     "3":null,
     "4":"CM PRODUTOS NÁUTICOS EIRELI",
-    "5":45321.4187198256,
+    "5":45404.0625081094,
     "6":"R$ ",
     "7":"n.d",
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1024,7 +1102,8 @@
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1037,7 +1116,8 @@
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1050,7 +1130,8 @@
     "8":"Com base no VP Atualizado",
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1063,7 +1144,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1076,7 +1158,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1089,7 +1172,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1102,7 +1186,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1115,7 +1200,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1128,7 +1214,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1141,7 +1228,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1154,7 +1242,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1167,7 +1256,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1180,7 +1270,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1193,7 +1284,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1206,7 +1298,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1219,7 +1312,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1228,11 +1322,12 @@
     "4":"Total Atual",
     "5":"#",
     "6":null,
-    "7":43.0,
+    "7":42.0,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1245,7 +1340,8 @@
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
   },
   {
     "1":null,
@@ -1254,10 +1350,403 @@
     "4":"Duplicatas",
     "5":"#",
     "6":"ABERTO",
-    "7":26.0,
+    "7":25.0,
     "8":null,
     "9":null,
     "10":null,
-    "11":null
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"F",
+    "3":null,
+    "4":"Lanchas Financiadas Mensalmente",
+    "5":"Unid",
+    "6":"TAG",
+    "7":"CCB",
+    "8":"Duplicatas",
+    "9":"Total",
+    "10":"Acum Histórico",
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Quantidade Mensal",
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Setembro de 2025",
+    "5":"#",
+    "6":92025.0,
+    "7":1.0,
+    "8":9.0,
+    "9":10.0,
+    "10":10.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Outubro de 2025",
+    "5":"#",
+    "6":102025.0,
+    "7":5.0,
+    "8":3.0,
+    "9":8.0,
+    "10":18.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Novembro de 2025",
+    "5":"#",
+    "6":112025.0,
+    "7":5.0,
+    "8":7.0,
+    "9":12.0,
+    "10":30.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Dezembro de 2025",
+    "5":"#",
+    "6":122025.0,
+    "7":5.0,
+    "8":8.0,
+    "9":13.0,
+    "10":43.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Janeiro de 2026",
+    "5":"#",
+    "6":12026.0,
+    "7":1.0,
+    "8":1.0,
+    "9":2.0,
+    "10":45.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Fevereiro de 2026",
+    "5":"#",
+    "6":22026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":45.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Março de 2026",
+    "5":"#",
+    "6":32026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":45.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Abril de 2026",
+    "5":"#",
+    "6":42026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":45.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Maio de 2026",
+    "5":"#",
+    "6":52026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":45.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"f",
+    "3":null,
+    "4":"Junho de 2026",
+    "5":"#",
+    "6":62026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":45.0,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"G",
+    "3":null,
+    "4":"Lanchas Financiadas Mensalmente",
+    "5":"Unid",
+    "6":"TAG",
+    "7":"CCB",
+    "8":"Duplicatas",
+    "9":"Total",
+    "10":"Acumulado",
+    "11":"ticket médio",
+    "Unnamed: 11":"ticket médio acum"
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Quantidade Mensal",
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Setembro de 2025",
+    "5":"R$",
+    "6":92025.0,
+    "7":297955.0,
+    "8":5449872.3800000027,
+    "9":5747827.3800000027,
+    "10":5747827.3800000027,
+    "11":574782.7380000002,
+    "Unnamed: 11":574782.7380000002
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Outubro de 2025",
+    "5":"R$",
+    "6":102025.0,
+    "7":4346066.5900000017,
+    "8":2771497.6000000001,
+    "9":7117564.1900000013,
+    "10":12865391.570000004,
+    "11":889695.5237500002,
+    "Unnamed: 11":714743.9761111113
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Novembro de 2025",
+    "5":"R$",
+    "6":112025.0,
+    "7":1840471.5800000008,
+    "8":4236420.8499999996,
+    "9":6076892.4300000006,
+    "10":18942284.0000000037,
+    "11":506407.7025000001,
+    "Unnamed: 11":631409.4666666668
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Dezembro de 2025",
+    "5":"R$",
+    "6":122025.0,
+    "7":1533130.1399999994,
+    "8":5208358.4200000027,
+    "9":6741488.5600000024,
+    "10":25683772.5600000061,
+    "11":518576.0430769232,
+    "Unnamed: 11":597297.03627907
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Janeiro de 2026",
+    "5":"R$",
+    "6":12026.0,
+    "7":609205.5200000003,
+    "8":628562.4500000001,
+    "9":1237767.9700000002,
+    "10":26921540.5300000049,
+    "11":618883.9850000001,
+    "Unnamed: 11":598256.4562222223
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Fevereiro de 2026",
+    "5":"R$",
+    "6":22026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Março de 2026",
+    "5":"R$",
+    "6":32026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Abril de 2026",
+    "5":"R$",
+    "6":42026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Maio de 2026",
+    "5":"R$",
+    "6":52026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":"Junho de 2026",
+    "5":"R$",
+    "6":62026.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
+  },
+  {
+    "1":null,
+    "2":"g",
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":null,
+    "9":null,
+    "10":null,
+    "11":null,
+    "Unnamed: 11":null
   }
 ]
